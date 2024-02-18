@@ -215,7 +215,7 @@ CALL CancelOrder(5);
 A Tableau workbook has been created, containing various charts and dashboards to facilitate data analysis. Download the workbook [here](./tableau.twb)
 
 ### Customers sales
-![Customers sales](./Images/tableau-task1.png)
+![Customers sales](./tableau-task1.png)
 
 ### Profit chart
 ![Profit chart](./Images/tableau-task2.png)
